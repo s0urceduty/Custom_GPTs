@@ -6,4 +6,4 @@ Following the disruption, Sourceduty escalated the matter beyond a technical sup
 
 ----------
 
-https://sourceduty.com/
+[sourceduty.com](https://sourceduty.com/)
